@@ -1,1 +1,24 @@
-{37,12,17,59}  {59,37,17,12}
+1.) Test 1
+Input Value: {3,8,1,6}
+Expected outcome: {8,6,3,1}
+Typical Condition: Typical
+
+2.) Test 2
+Input Value: {null}
+Expected outcome: Throws IllegalArgumentException
+Typical Condition: Throws Exception
+
+1.) Test 3
+Input Value: {4,h,3,7}
+Expected outcome: Throws IllegalArgumentException
+Typical Condition: Throws Exception
+
+4.) Test 4
+Input Value: {9,8,7,6,5}
+Expected outcome: {9,8,7,6,5}
+Typical Condition: Typical
+
+5.) Test 5
+Input Value: {0,0,0,0}
+Expected outcome: {0,0,0,0}
+Typical Condition: Typical
